@@ -9,6 +9,9 @@ public class Main {
         bierautomat1.verkaufen(3);
         System.out.println("Ich bin der Uwe, und bin auch mit dabei");
     }
-
+//public void UweIstHier(String) {
+//    Jo was Geht.. AUAAAA, die Rose hat mich gebissen
+//    What is going on here?  BACKFöST!
+//}
 
 }
