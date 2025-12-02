@@ -9,7 +9,7 @@ public class Main {
         //automat2.anzahlBier = 5;
         automat2.setAnzahlBier(-50);
         int anzahlBierAutomat2 = automat2.getAnzahlBier();
-         System.out.println("automat2 hat " + anzahlBierAutomat2 + " Biere.");
+        //System.out.println("automat2 hat " + anzahlBierAutomat2 + " Biere.");
         automat2.einschalten();
 
         ObjektorientierterBierautomat automat3 = new ObjektorientierterBierautomat("automat3", 7);
