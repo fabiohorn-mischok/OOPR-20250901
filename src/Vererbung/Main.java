@@ -7,5 +7,7 @@ public class Main {
 
         Bierautomat bierautomat1 = new Bierautomat("bierautomat1", "Bierbrunnen", 5);
         bierautomat1.verkaufen(3);
+
+        System.out.println("lui was here.");
     }
 }
