@@ -12,6 +12,11 @@ public class Main {
 
         printWriter.println("hallo");
         printWriter.close();
+
+
+            System.out.println("Ich bin der Uwe, und bin auch mit dabei");
+        }
+
+
     }
 
-}
