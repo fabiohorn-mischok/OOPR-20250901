@@ -8,6 +8,7 @@ public class Main {
         Bierautomat bierautomat1 = new Bierautomat("bierautomat1", "Bierbrunnen", 5);
         bierautomat1.verkaufen(3);
         System.out.println("Ich bin der Uwe, und bin auch mit dabei");
+        System.out.println("Hallo, Hier ist Fabio!");
     }
 //public void UweIstHier(String) {
 //    Jo was Geht.. AUAAAA, die Rose hat mich gebissen
